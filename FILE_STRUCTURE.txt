@@ -1,0 +1,24 @@
+/ESCAPE
+├── /app
+│   ├── /blueprints
+│   │   ├── __init__.py
+│   │   ├── auth.py
+│   │   ├── mod_detection.py
+│   │   ├── settings_editor.py
+│   │   ├── server_settings.py
+│   ├── /static
+│   │   ├── styles.css
+│   │   ├── scripts.js
+│   ├── /templates
+│   │   ├── splash_screen.html
+│   │   ├── login.html
+│   │   ├── mod_settings.html
+│   │   ├── server_settings.html
+│   │   ├── debug_console.html
+│   ├── __init__.py
+│   ├── models.py
+│   ├── utils.py
+├── config.py
+├── run.py
+├── requirements.txt
+
